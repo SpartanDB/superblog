@@ -1,0 +1,17 @@
+body {
+    /* max-width: 800px; */
+    background-color: grey;
+    align-items: center;
+    color: floralwhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
