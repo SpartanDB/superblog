@@ -1,9 +1,9 @@
 body {
     /* max-width: 800px; */
-    background-color: grey;
-    color: floralwhite;
+    background-color: rgb(231, 230, 209);
+    /* color: floralwhite; */
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     margin: 0;
     padding: 0;
@@ -43,4 +43,8 @@ h1 {
     font-weight: normal;
     font-style: italic;
     font-size: 10px;    
+}
+
+.contenido {
+     padding: 10px;
 }
