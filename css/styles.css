@@ -48,3 +48,15 @@ h1 {
 .contenido {
      padding: 10px;
 }
+
+.footer {
+    background-color: #000000;
+    text-align: left;
+    color: white;
+    margin-top: 0;
+    padding: 20px;
+}
+
+.footer strong {
+    color: #cf3131;
+}
