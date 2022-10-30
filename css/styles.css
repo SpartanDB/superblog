@@ -31,7 +31,8 @@ h1 {
     -webkit-box-shadow: 9px 11px 29px 7px rgba(0,0,0,0.75);
     -moz-box-shadow: 9px 11px 29px 7px rgba(0,0,0,0.75);
     box-shadow: 9px 11px 29px 7px rgba(0,0,0,0.75);
-    
+    background-image: url(/imagenes/banner-g3350b059d_1920.jpg);
+     background-repeat: no-repeat;
 }
 .super{
     /* background-color: #0763c6; */
@@ -46,5 +47,9 @@ h1 {
 }
 
 .contenido {
-     padding: 10px;
+     padding: 10px;     
+}
+
+.imagen-header {
+    width: 100%;
 }
